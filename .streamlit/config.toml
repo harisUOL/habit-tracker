@@ -1,0 +1,8 @@
+[theme]
+base = "dark"
+
+primaryColor = "#22c55e"        # green-500 (success / progress)
+backgroundColor = "#0f172a"     # slate-900
+secondaryBackgroundColor = "#020617"  # slate-950
+textColor = "#e5e7eb"           # gray-200
+font = "sans serif"
